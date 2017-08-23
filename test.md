@@ -1,6 +1,6 @@
 
-##prueba de titulos 
-###Inicio
+#prueba de titulos 
+#Inicio
 
 | Command | Description |
 | --- | --- |
